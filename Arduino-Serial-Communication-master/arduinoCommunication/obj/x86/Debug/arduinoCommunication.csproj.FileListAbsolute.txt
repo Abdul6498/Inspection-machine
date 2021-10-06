@@ -1,0 +1,8 @@
+C:\Users\hp\Desktop\Arduino-Serial-Communication-master\arduinoCommunication\bin\Debug\arduinoCommunication.exe
+C:\Users\hp\Desktop\Arduino-Serial-Communication-master\arduinoCommunication\bin\Debug\arduinoCommunication.pdb
+C:\Users\hp\Desktop\Arduino-Serial-Communication-master\arduinoCommunication\obj\x86\Debug\arduinoCommunication.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\Arduino-Serial-Communication-master\arduinoCommunication\obj\x86\Debug\arduinoCommunication.Main.resources
+C:\Users\hp\Desktop\Arduino-Serial-Communication-master\arduinoCommunication\obj\x86\Debug\arduinoCommunication.Properties.Resources.resources
+C:\Users\hp\Desktop\Arduino-Serial-Communication-master\arduinoCommunication\obj\x86\Debug\arduinoCommunication.csproj.GenerateResource.Cache
+C:\Users\hp\Desktop\Arduino-Serial-Communication-master\arduinoCommunication\obj\x86\Debug\arduinoCommunication.exe
+C:\Users\hp\Desktop\Arduino-Serial-Communication-master\arduinoCommunication\obj\x86\Debug\arduinoCommunication.pdb
